@@ -5,3 +5,6 @@ Este e um projeto em python de reconhecimento facial basico.
 
 - Caso não seja criado a pasta face_db para o salvamento do seu rosto
 crie onde foi salvo a estrutura.
+
+- O Projeto tem 3 funções, registrar Rosto, Reconhecer Rostos e a função Sair
+  
